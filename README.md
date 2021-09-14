@@ -23,7 +23,7 @@
 
 <div style="display: inline_block"><br>
   <p><strong>Platforms</strong></p>
-  <img align="center" alt="Luiz-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img align="center" alt="Luiz-wordpress" height="40" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316902333001758/wordpress.png" />
   <img align="center" alt="Luiz-tray" height="40" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316581691039744/tray.png" />
   <img align="center" alt="Luiz-fbits" height="30" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316579027681330/fbits.png" />
 </div>
