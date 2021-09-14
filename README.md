@@ -11,7 +11,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <p>Languages</p>
+  **Languages**
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,7 +22,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <p>Platforms</p>
+  **Platforms**
   <img align="center" alt="Luiz-wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="Luiz-tray" height="30" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316581691039744/tray.png" />
   <img align="center" alt="Luiz-fbits" height="30" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316579027681330/fbits.png" />
