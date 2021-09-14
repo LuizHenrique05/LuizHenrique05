@@ -1,6 +1,6 @@
 ### Hello! I'm Luiz Henrique - Web Developer
 
-- 🔭 I’m currently working both as **front-end** and **back-end***.
+- 🔭 I’m currently working both as **front-end** and **back-end**.
 - 🌱 I’m currently learning front-end frameworks like **ReactJS** and **Vue.js** and to back-end frameworks like **Laravel** and **Express.js**.
 
 <div>
