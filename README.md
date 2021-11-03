@@ -24,15 +24,20 @@
 
 <div style="display: inline_block"><br>
   <p><strong>Knowledge</strong></p>
-  <img align="center" alt="Luiz-wordpress" height="40" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316902333001758/wordpress.png" />
-  <img align="center" alt="Luiz-tray" height="40" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316581691039744/tray.png" />
-  <img align="center" alt="Luiz-fbits" height="30" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316579027681330/fbits.png" />
+  <img align="center" alt="Luiz-woocommerce" height="30" width="40" src="https://camo.githubusercontent.com/a1eaa7d4ba65cb15354eb28856209e748091bd1faec492759f0c31d8f11e930e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f776f6f636f6d6d657263652f776f6f636f6d6d657263652d6f726967696e616c2e737667" alt="woocommerce" title="woocommerce" />
   <img align="center" alt="Luiz-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="vscode" />
   <img align="center" alt="Luiz-phpstorm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" title="phpstorm" />
   <img align="center" alt="Luiz-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="figma" />
   <img align="center" alt="Luiz-filezilla" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" title="filezilla" />
   <img align="center" alt="Luiz-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" title="heroku" />
   <img align="center" alt="Luiz-slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" title="slack" />
+</div>
+
+<div style="display: inline_block"><br>
+  <p><strong>Platforms & CMS</strong></p>
+  <img align="center" alt="Luiz-wordpress" height="40" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316902333001758/wordpress.png" />
+  <img align="center" alt="Luiz-tray" height="40" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316581691039744/tray.png" />
+  <img align="center" alt="Luiz-fbits" height="30" width="40" src="https://cdn.discordapp.com/attachments/692027371003314239/887316579027681330/fbits.png" />
 </div>
 
 ##
