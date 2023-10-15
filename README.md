@@ -1,6 +1,6 @@
 ### Hello World! I'm Luiz Henrique - Tech Lead and Web Development Specialist.
 
-- 🖥️ I’m currently working both as **Tech Lead**.
+- 🖥️ I’m currently working as **Tech Lead**.
 - 📚 I’m currently learning NextJS 13 new features and to create projects from scratch with Clean Architecture and DDD.
 
 <div>
