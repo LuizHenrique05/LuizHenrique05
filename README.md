@@ -1,7 +1,7 @@
-### Hello World! I'm Luiz Henrique - Web Developer
+### Hello World! I'm Luiz Henrique - Tech Lead and Web Development Specialist.
 
-- 🖥️ I’m currently working both as **front-end** and **back-end**.
-- 📚 I’m currently learning front-end frameworks like **ReactJS** and **Vue.js** and back-end frameworks like **Laravel** and **Express.js**.
+- 🖥️ I’m currently working both as **Tech Lead**.
+- 📚 I’m currently learning NextJS 13 new features and to create projects from scratch with Clean Architecture and DDD.
 
 <div>
   <a href="https://github.com/LuizHenrique05">
@@ -14,6 +14,7 @@
   <p><strong>Languages</strong></p>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luiz-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Luiz-Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
